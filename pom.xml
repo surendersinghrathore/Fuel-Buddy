@@ -91,8 +91,8 @@
           </execution>
         </executions>
       </plugin>
-
-      </build>
+    </plugins>
+  </build>
 
   <distributionManagement>
     <repository>
